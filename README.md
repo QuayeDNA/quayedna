@@ -1,189 +1,169 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Digital+Universe+🌟;I'm+QuayeDNA+%7C+Dave+Quaye;Full-Stack+Developer+%7C+Ghana+🇬🇭;Building+the+Future+One+Line+at+a+Time&center=true&width=600&height=100&font=Fira%20Code&size=22&color=00D9FF&vCenter=true&pause=1000">
-</div>
+# QuayeDNA - Dave Quaye
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=QuayeDNA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity&descAlignY=51&descAlign=50"/>
-</div>
+## 👋 About Me
 
-## 🧬 About My DNA
 ```javascript
 const QuayeDNA = {
-    name: "Dave Quaye",
-    location: "Ghana 🇬🇭",
-    currentFocus: "Guidance & Counselling Mobile App",
-    passions: ["Frontend Magic", "Mobile Development", "Open Source"],
-    lifePhilosophy: "Code with purpose, build with passion",
-    currentlyLearning: ["Angular Ecosystem", "Advanced React Patterns"],
-    funFact: "I see code as poetry and debugging as detective work 🕵️‍♂️"
+  name: "Dave Quaye",
+  location: "Ghana 🇬🇭",
+  currentFocus: "ELMS (Exams Logistic Management System)",
+  passions: ["JavaScript Development", "Game Development", "Mobile Apps"],
+  lifePhilosophy: "Code with purpose, build with passion",
+  currentlyLearning: ["Unity", "Godot", "Advanced React Patterns"],
+  funFact: "I see code as poetry and debugging as detective work 🕵️‍♂️",
 };
 ```
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=QuayeDNA&theme=radical&no-frame=true&no-bg=true&row=2&column=3" alt="GitHub Trophies">
-</div>
+Hi! I'm **Dave Quaye** (QuayeDNA), a passionate **Full-Stack Developer** and **Game Developer** from Ghana 🇬🇭. I specialize in JavaScript technologies, building web and mobile applications with a focus on user experience and functionality.
 
----
+### Current Focus
 
-## 🎯 Current Mission
-<table>
-<tr>
-<td>
+- 🚀 Developing **ELMS (Exams Logistic Management System)** - A comprehensive platform for managing examination logistics
+- 🎮 Exploring **Game Development** with Engines like GDScript and GDevelop
+- 📱 Building mobile-first solutions with React Native and Expo
 
-**🚀 Primary Focus**
-- Building **Guidance & Counselling Mobile App**
-- Mastering **Angular** ecosystem
-- Contributing to **Open Source** projects
+### Skills & Technologies
 
-</td>
-<td>
+#### Frontend
 
-**🤝 Collaboration Goals**
-- React/React Native projects
-- Full-stack applications
-- Mobile-first solutions
+- **JavaScript/TypeScript** - Core language expertise
+- **React** - Component-based UI development
+- **Angular** - Enterprise-scale applications
+- **Tailwind CSS** - Utility-first styling
 
-</td>
-</tr>
-</table>
+#### Mobile & Game Dev
 
----
+- **React Native** - Cross-platform mobile apps
+- **Expo** - Rapid prototyping and deployment
+- **Game Development** - Unity, Godot, GDevelop
 
-## 🛠️ My Arsenal
+## 🛠️ Tech Stack Badges
 
-### **Frontend Mastery**
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+
+### Frameworks & Libraries
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-</p>
-
-### **Mobile Development**
-<p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
 
-### **Backend & Tools**
+### Game Development
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot">
+  <img src="https://img.shields.io/badge/GDevelop-000000?style=for-the-badge&logo=gdevelop&logoColor=white" alt="GDevelop">
+</p>
+
+### Tools & Platforms
+
+<p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 </p>
 
----
+#### Backend & Tools
 
-## 📊 GitHub Analytics
+- **Node.js** - Server-side JavaScript
+- **Firebase** - Backend services and hosting
+- **Git** - Version control
+- **VS Code** - Development environment
 
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=QuayeDNA&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=QuayeDNA&theme=radical&hide_border=true" alt="GitHub Streak">
-</div>
+#### Design
 
-<div align="center">
-  <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuayeDNA&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-  <img width="335" src="https://github-readme-activity-graph.vercel.app/graph?username=QuayeDNA&theme=react-dark&hide_border=true" alt="Contribution Graph">
-</div>
+- **Figma** - UI/UX design (88% proficiency)
+- **Adobe XD** - Prototyping (85%)
+- **Photoshop** - Image editing (70%)
+- **Inkscape** - Vector graphics (95%)
 
----
+## � What I'm Currently Building
 
-## 🌟 Featured Projects
+### ELMS - Exams Logistic Management System
 
-<div align="center">
-  <a href="[https://github.com/QuayeDNA/guidance-counselling-app](https://github.com/QuayeDNA/CyberGuidance)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuayeDNA&repo=guidance-counselling-app&theme=radical&hide_border=true" alt="Guidance App">
-  </a>
-  <a href="https://github.com/QuayeDNA/react-native-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuayeDNA&repo=react-native-portfolio&theme=radical&hide_border=true" alt="Portfolio App">
-  </a>
-</div>
+[![ELMS](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)](https://github.com/QuayeDNA/elms)
 
----
+> A comprehensive platform for managing examination logistics, featuring real-time scheduling, automated notifications, and secure data handling. Built with React, Node.js, and Firebase.
 
-## 🎵 When I Code...
+### Game Development Projects
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=31i2bigvttrcjmhaxefxqnfw7mpa&theme=radical" alt="Spotify Playing">
-</div>
+- **Unity Games**: Exploring 2D/3D game development with C#
+- **Godot Adventures**: Open-source game prototypes with GDScript
+- **GDevelop Web Games**: Browser-based interactive experiences
 
----
-
-## 🌍 Connect With Me
+## 📊 GitHub Activity
 
 <div align="center">
-  <a href="https://linkedin.com/in/dave-quaye">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:dave.quaye@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://twitter.com/quaye009">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://quayedna.dev">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
-  </a>
+  <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=QuayeDNA&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
 </div>
 
----
+## 🎮 Fun Facts & Hobbies
 
-## 📈 2024 Goals & Achievements
+- 🎵 **Music Lover**: Coding with beats on
+- 🎨 **Pixel Artist**: Creating digital art and game assets
+- 🕹️ **Gamer**: From retro classics to modern indie games
+- 📚 **Lifelong Learner**: Always exploring new tech stacks
 
-<table>
-<tr>
-<td width="50%">
+## 🤝 Let's Collaborate
 
-**🎯 Goals**
+I'm always open to interesting projects and collaborations! Whether it's:
+
+- Full-stack web applications
+- Mobile app development
+- Game development projects
+- Open source contributions
+
+**Drop me a message** if you'd like to work together!
+
+## 💻 Code Philosophy
+
+> "Clean code always looks like it was written by someone who cares." - Robert C. Martin
+
+I believe in writing maintainable, scalable code that tells a story. Every line of code should serve a purpose and contribute to the bigger picture.
+
+## 🎯 Goals & Achievements
+
+### 2025 Goals
+
+- [ ] Complete ELMS platform
 - [ ] Contribute to 10+ Open Source projects
-- [ ] Launch Guidance & Counselling App
-- [ ] Master Angular ecosystem
-- [ ] Build personal brand
-- [ ] Mentor junior developers
+- [ ] Master advanced JavaScript patterns
+- [ ] Build personal brand in tech community
 
-</td>
-<td width="50%">
+## 📊 GitHub Stats
 
-**🏆 Achievements**
-- [x] Frontend Developer certification
-- [x] 50+ GitHub contributions
-- [x] Mobile app development
-- [x] Community involvement
-- [x] Photography portfolio
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuayeDNA&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-</td>
-</tr>
-</table>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuayeDNA&layout=compact&theme=radical&hide_border=true)
 
----
+## 🌐 Connect With Me
 
-## 💡 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</div>
+- **Email**: quayedavid245@gmail.com
+- **Phone**: +233 592 078 372
+- **GitHub**: [@QuayeDNA](https://github.com/QuayeDNA)
+- **LinkedIn**: [quaye_dna](https://linkedin.com/in/dave-quaye)
+- **Portfolio**: [quayedna-portfolio.vercel.app](https://quayedna-portfolio.vercel.app/)
 
----
+## 💻 Philosophy
 
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/QuayeDNA/QuayeDNA/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</div>
+_"Code with purpose, build with passion"_
 
----
+I believe in writing clean, maintainable JavaScript code that solves real problems. Whether it's a web app, mobile solution, or game, I focus on functionality and user experience.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
-</div>
+## 📈 Profile Stats
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=QuayeDNA&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/QuayeDNA?logo=github&style=for-the-badge" alt="GitHub Followers">
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20in%20Ghana-red?style=for-the-badge" alt="Made with Love">
-</div>
-
-<div align="center">
-  <h3>Thanks for visiting! Let's build something amazing together 🚀</h3>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love">
 </div>
