@@ -19,7 +19,7 @@ Hi! I'm **Dave Quaye** (QuayeDNA), a passionate **Full-Stack Developer** and **G
 ### Current Focus
 
 - 🚀 Developing **ELMS (Exams Logistic Management System)** - A comprehensive platform for managing examination logistics
-- 🎮 Exploring **Game Development** with Engines like GDScript and GDevelop
+- 🎮 Exploring **Game Development** with Engines like Godot and GDevelop
 - 📱 Building mobile-first solutions with React Native and Expo
 
 ### Skills & Technologies
