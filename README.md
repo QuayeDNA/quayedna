@@ -1,131 +1,150 @@
-<!--
-  QuayeDNA / README.md
-  Creative brief: Terminal-dark. Ghana-grounded. Equal parts game builder and systems thinker.
-  Less AI, more Dave.
--->
+<img align="right" width="90" src="https://avatars.githubusercontent.com/u/34524618?v=4" alt="avatar"/>
 
 ```
- ██████╗ ██╗   ██╗ █████╗ ██╗   ██╗███████╗██████╗ ███╗   ██╗ █████╗
-██╔═══██╗██║   ██║██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗████╗  ██║██╔══██╗
-██║   ██║██║   ██║███████║ ╚████╔╝ █████╗  ██║  ██║██╔██╗ ██║███████║
-██║▄▄ ██║██║   ██║██╔══██║  ╚██╔╝  ██╔══╝  ██║  ██║██║╚██╗██║██╔══██║
-╚██████╔╝╚██████╔╝██║  ██║   ██║   ███████╗██████╔╝██║ ╚████║██║  ██║
- ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
+┌──────────────────────────────────────────────────────────────────┐
+│ DAVE QUAYE                                             @QuayeDNA │
+├──────────────────────────────────────────────────────────────────┤
+│ indie game dev since 2014 -> full-stack builder                  │
+│ Accra, Ghana  ·  32 public repos  ·  on GitHub since 2017        │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-<div align="center">
+<p align="left">
+<img src="https://img.shields.io/badge/portfolio-quayedna--portfolio.vercel.app-1a1a1a?style=flat-square&logo=vercel&logoColor=d9a441&labelColor=1a1a1a&color=d9a441" alt="portfolio"/>
+<img src="https://img.shields.io/badge/linkedin-dave--quaye-1a1a1a?style=flat-square&logo=linkedin&logoColor=d9a441&labelColor=1a1a1a&color=d9a441" alt="linkedin"/>
+<img src="https://img.shields.io/badge/x-@Quaye009-1a1a1a?style=flat-square&logo=x&logoColor=d9a441&labelColor=1a1a1a&color=d9a441" alt="x"/>
+<img src="https://img.shields.io/badge/email-quayedavid245@gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=d9a441&labelColor=1a1a1a&color=d9a441" alt="email"/>
+</p>
 
-**Dave Quaye** · Full-Stack Dev & Indie Game Dev · 🇬🇭 Ghana
+<br clear="right"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-quayedna--portfolio.vercel.app-0f0f0f?style=flat-square&logo=vercel&logoColor=white)](https://quayedna-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dave--quaye-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dave-quaye)
-[![X / Twitter](https://img.shields.io/badge/X-@Quaye009-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Quaye009)
-[![Email](https://img.shields.io/badge/Email-quayedavid245@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:quayedavid245@gmail.com)
+---
 
+## build log
+
+*What's actually been touched recently — not a curated highlight reel.*
+
+```
+╭─ ● ● ● ──────────────────────────────────────────────────────────╮
+│ edunexus                                                         │
+│ updated: today · TypeScript                                      │
+├──────────────────────────────────────────────────────────────────┤
+│ Next.js 16 · PostgreSQL 17 · Drizzle ORM · Auth.js v5 ·          │
+│ Turborepo                                                        │
+├──────────────────────────────────────────────────────────────────┤
+│ Multi-tenant K-12 school management system for Ghana & West      │
+│ Africa, built for British and American curricula. Rebuild of an  │
+│ earlier React + Supabase version — same problem, second attempt  │
+│ at the architecture.                                             │
+╰──────────────────────────────────────────────────────────────────╯
+```
+**→ [github.com/QuayeDNA/edunexus](https://github.com/QuayeDNA/edunexus)**
+
+```
+╭─ ● ● ● ──────────────────────────────────────────────────────────╮
+│ MomoBridge                                                       │
+│ updated: 4 days ago · Kotlin                                     │
+├──────────────────────────────────────────────────────────────────┤
+│ Android · SMS parsing · WebSocket relay                          │
+├──────────────────────────────────────────────────────────────────┤
+│ On-device Mobile Money verification for Ghana. Intercepts MoMo   │
+│ SMS locally, parses it on-device, verifies payments over a       │
+│ WebSocket relay — deliberately no backend holding anyone's       │
+│ transaction data.                                                │
+╰──────────────────────────────────────────────────────────────────╯
+```
+**→ [github.com/QuayeDNA/MomoBridge](https://github.com/QuayeDNA/MomoBridge)**
+
+```
+╭─ ● ● ● ──────────────────────────────────────────────────────────╮
+│ saas-ecommerce (x3)                                              │
+│ updated: 4-10 days ago · TypeScript/JS                           │
+├──────────────────────────────────────────────────────────────────┤
+│ storefront architecture · iteration, not polish                  │
+├──────────────────────────────────────────────────────────────────┤
+│ Three repos, one problem: a TypeScript-first storefront rebuilt  │
+│ from scratch more than once, instead of defaulting to "just use  │
+│ Shopify."                                                        │
+╰──────────────────────────────────────────────────────────────────╯
+```
+**→ [saas-ecommerce](https://github.com/QuayeDNA/saas-ecommerce) · [saas-ecommerce-2](https://github.com/QuayeDNA/saas-ecommerce-2) · [saas-ecommerce-backend](https://github.com/QuayeDNA/saas-ecommerce-backend)**
+
+<details>
+<summary><b>▸ everything else with a pulse</b></summary>
+
+| repo | language | last touched |
+|---|---|---|
+| [`Directdata`](https://github.com/QuayeDNA/Directdata) | TypeScript | 4 days ago |
+| [`NewApp`](https://github.com/QuayeDNA/NewApp) | TypeScript | 4 days ago |
+| [`gamehub-mobile`](https://github.com/QuayeDNA/gamehub-mobile) | JavaScript | 24 days ago |
+| [`resume-builder`](https://github.com/QuayeDNA/resume-builder) | TypeScript | 44 days ago |
+| [`ELMS_WORKSPACE`](https://github.com/QuayeDNA/ELMS_WORKSPACE) | TypeScript | 53 days ago |
+
+</details>
+
+---
+
+## shipped
+
+```
+╭─ ● ● ● ──────────────────────────────────────────────────────────╮
+│ skaflo                                                           │
+│ published on npm · TypeScript                                    │
+├──────────────────────────────────────────────────────────────────┤
+│ CLI · zero boilerplate                                           │
+├──────────────────────────────────────────────────────────────────┤
+│ Scaffolds clean folder hierarchies for JS/TS projects.           │
+│ Directories only, no files, no opinions about what goes inside   │
+│ them. The one thing here that ships to strangers.                │
+╰──────────────────────────────────────────────────────────────────╯
+```
+
+<p align="left">
+<img src="https://img.shields.io/badge/npm-skaflo-1a1a1a?style=flat-square&logo=npm&logoColor=d9a441&labelColor=1a1a1a&color=d9a441" alt="npm"/>
+<img src="https://img.shields.io/badge/license-MIT-1a1a1a?style=flat-square&labelColor=1a1a1a&color=d9a441" alt="license"/>
+</p>
+
+**→ [github.com/QuayeDNA/skaflo](https://github.com/QuayeDNA/skaflo)**
+
+---
+
+## what's actually in rotation
+
+*Derived from the repos above — not every tool I've touched once.*
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│ TypeScript   ████████████████████████░░░░░░░░  primary           │
+│ Kotlin       ███████░░░░░░░░░░░░░░░░░░░░░░░░  MomoBridge/Android │
+│ JavaScript   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░  legacy + tooling  │
+│ GDScript     ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  Godot, off-GitHub │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+Backend: PostgreSQL + Drizzle, Node.js. Game dev: Godot 4 — most of that lives in local project folders and Aseprite files, not pushed here yet.
+
+---
+
+## live from GitHub
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=QuayeDNA&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=d9a441&icon_color=d9a441&text_color=e8e8e8&count_private=true" alt="stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuayeDNA&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=d9a441&text_color=e8e8e8&langs_count=6" alt="top langs" height="165"/>
 </div>
 
 ---
 
-## `$ whoami`
-
-Building software by day, shipping game prototypes at midnight. I've been making games since 2014 — long before I knew what a commit was. These days that same restless energy goes into full-stack products, mobile apps, and systems that actually solve problems for people in Ghana and beyond.
-
-I write TypeScript the way I write GDScript: with intention. Every abstraction earns its place.
-
----
-
-## `$ ls -la current/`
-
 ```
-drwxr-xr-x  ELMS_WORKSPACE/       ← most active right now
-drwxr-xr-x  saas-ecommerce/
-drwxr-xr-x  Shader-Godot-Engine/
-drwxr-xr-x  CyberGuidance/
+╭─ ● ● ● ──────────────────────────────────────────────────────────╮
+│ reach out                                                        │
+├──────────────────────────────────────────────────────────────────┤
+│ Building something at the intersection of web, mobile, and       │
+│ Ghana-specific problems? That's what I actually want to hear     │
+│ about.                                                           │
+╰──────────────────────────────────────────────────────────────────╯
 ```
 
-### 🔨 ELMS — Exams Logistic Management System
+📬 [quayedavid245@gmail.com](mailto:quayedavid245@gmail.com) · 📞 +233 592 078 372
+🔗 [portfolio](https://quayedna-portfolio.vercel.app/) · [linkedin](https://linkedin.com/in/dave-quaye) · [x](https://twitter.com/Quaye009)
 
-> Full-stack monorepo: backend API · desktop app · mobile app — all in one workspace.
-
-Managing exam logistics is genuinely painful in most institutions. ELMS is my attempt to fix that — real-time scheduling, automated notifications, secure data pipelines. Built in TypeScript, deployed lean.
-
-**→ [QuayeDNA/ELMS_WORKSPACE](https://github.com/QuayeDNA/ELMS_WORKSPACE)**
-
-### 🛒 SaaS E-Commerce
-
-> TypeScript-first storefront architecture. Because "just use Shopify" isn't always the answer.
-
-**→ [QuayeDNA/saas-ecommerce](https://github.com/QuayeDNA/saas-ecommerce)**
-
-### 🎮 Shader-Godot-Engine
-
-> Basic shader library for Godot objects. Started as experiments, turned into a reference collection.
-
-**→ [QuayeDNA/Shader-Godot-Engine](https://github.com/QuayeDNA/Shader-Godot-Engine)**
-
-### 🔐 CyberGuidance
-
-> JavaScript-based cybersecurity guidance tool.
-
-**→ [QuayeDNA/CyberGuidance](https://github.com/QuayeDNA/CyberGuidance)**
-
----
-
-## `$ cat stack.json`
-
-```json
-{
-  "languages":   ["TypeScript", "JavaScript", "GDScript", "C#"],
-  "frontend":    ["React", "Angular", "Tailwind CSS"],
-  "mobile":      ["React Native", "Expo"],
-  "backend":     ["Node.js", "Firebase"],
-  "game_dev":    ["Godot", "GDevelop", "Unity (learning)"],
-  "design":      ["Figma", "Inkscape", "Adobe XD"],
-  "tools":       ["Git", "VS Code"],
-  "currently":   "Making ELMS production-ready + Godot shader experiments"
-}
-```
-
----
-
-## `$ git log --oneline --graph`
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuayeDNA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/QuayeDNA)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuayeDNA&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/QuayeDNA)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuayeDNA&theme=tokyo-night&hide_border=true&area=true)](https://github.com/QuayeDNA)
-
-</div>
-
----
-
-## `$ cat /etc/motd`
-
-```
-A few things worth knowing:
-  - Indie game dev since 2014. Before React, before Node, before all of it.
-  - Pixel art and shader tinkering are how I decompress.
-  - I think debugging is literally detective work. I enjoy it.
-  - Ghana doesn't have enough devs building for Ghana. Working on that.
-  - Music plays. Always.
-```
-
----
-
-## `$ ssh dave@collab --open`
-
-If you're building something interesting — a web app, a mobile product, a game, or anything that lives at the intersection of those — let's talk.
-
-I'm especially interested in projects that matter to people in West Africa.
-
-📬 **[quayedavid245@gmail.com](mailto:quayedavid245@gmail.com)**  
-📞 **+233 592 078 372**
-
----
-
-<div align="center">
-<sub>Ghana 🇬🇭 · UTC+0 · <a href="https://quayedna-portfolio.vercel.app">quayedna-portfolio.vercel.app</a></sub>
-</div>
+<sub>Accra, Ghana · UTC+0</sub>
