@@ -128,8 +128,8 @@ Backend: PostgreSQL + Drizzle, Node.js. Game dev: Godot 4 — most of that lives
 ## live from GitHub
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=QuayeDNA&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=d9a441&icon_color=d9a441&text_color=e8e8e8&count_private=true" alt="stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuayeDNA&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=d9a441&text_color=e8e8e8&langs_count=6" alt="top langs" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=QuayeDNA&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=d9a441&icon_color=d9a441&text_color=e8e8e8&count_private=true" alt="stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=QuayeDNA&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=d9a441&text_color=e8e8e8&langs_count=6" alt="top langs" height="165"/>
 </div>
 
 ---
