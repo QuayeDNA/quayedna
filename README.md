@@ -10,7 +10,7 @@
 ```
 
 <p align="left">
-<img src="https://img.shields.io/badge/portfolio-dna-studios.space-1a1a1a?style=flat-square&logo=vercel&logoColor=d9a441&labelColor=1a1a1a&color=d9a441" alt="portfolio"/>
+<img src="https://img.shields.io/badge/portfolio-quayedna--portfolio.vercel.app-1a1a1a?style=flat-square&logo=vercel&logoColor=d9a441&labelColor=1a1a1a&color=d9a441" alt="portfolio"/>
 <img src="https://img.shields.io/badge/linkedin-dave--quaye-1a1a1a?style=flat-square&logo=linkedin&logoColor=d9a441&labelColor=1a1a1a&color=d9a441" alt="linkedin"/>
 <img src="https://img.shields.io/badge/x-@Quaye009-1a1a1a?style=flat-square&logo=x&logoColor=d9a441&labelColor=1a1a1a&color=d9a441" alt="x"/>
 <img src="https://img.shields.io/badge/email-quayedavid245@gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=d9a441&labelColor=1a1a1a&color=d9a441" alt="email"/>
