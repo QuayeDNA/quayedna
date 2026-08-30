@@ -5,7 +5,7 @@
 # DAVE QUAYE
 ### `FULL-STACK EDITION` · A DNA-STUDIOS PRODUCTION
 
-![Portfolio](https://img.shields.io/badge/portfolio-quayedna--portfolio.vercel.app-d9a441?style=for-the-badge&logo=vercel&logoColor=white)
+![Portfolio](https://img.shields.io/badge/portfolio-dna--studios.space-d9a441?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-dave--quaye-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![X](https://img.shields.io/badge/x-%40Quaye009-000000?style=for-the-badge&logo=x&logoColor=white)
 ![Email](https://img.shields.io/badge/email-quayedavid245%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -16,58 +16,58 @@
 
 ---
 
-### 🎮 NOW PLAYING
+### 🕹️ LOADOUT
+
+<table>
+<tr><td valign="top" width="20%"><b>Frontend</b></td><td>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+</td></tr>
+<tr><td valign="top"><b>Backend</b></td><td>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+
+</td></tr>
+<tr><td valign="top"><b>Graphics &amp; Game Dev</b></td><td>
+
 ![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white)
 
----
+</td></tr>
+<tr><td valign="top"><b>UI/UX</b></td><td>
 
-### 📀 GAMES INCLUDED ON THIS CARTRIDGE
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Penpot](https://img.shields.io/badge/Penpot-000000?style=flat-square&logo=penpot&logoColor=white)
 
-| Title | Platform | Description |
-|---|---|---|
-| **[EduNexus](https://github.com/QuayeDNA/edunexus)** | ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Multi-tenant K-12 school SaaS for Ghana & West Africa. Second attempt at the architecture, first one didn't survive contact with reality. |
-| **Abɔde** | ![Godot](https://img.shields.io/badge/-Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white) | Ghanaian zombie survival game. Pitch page runs a full classified-dossier aesthetic — typewriter mis-strikes, redaction bars, declassification nav. |
-| **Gold & Iron** | ![Godot](https://img.shields.io/badge/-Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white) | Colonial Gold Coast historical mythology game. Every AI-generated asset flagged for Ghanaian practitioner review before it ships. |
-| **IRREGULAR** | ![Godot](https://img.shields.io/badge/-Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white) | Sci-fi geometric metroidvania. Full visual-language bible exists before a single room does. |
-| **[MomoBridge](https://github.com/QuayeDNA/MomoBridge)** | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | On-device Mobile Money verification for MTN/Telecel/AT. Five-layer parsing, no backend ever touches a transaction. |
-| **Pharmacy POS** | ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white) | Point-of-sale with real thermal receipt printing. Real Rust dependency hell, real ESC/POS Cedi-symbol mojibake fix. |
-| **Godot Git Plugin** | ![Godot](https://img.shields.io/badge/-GDExtension-478CBF?style=flat-square&logo=godotengine&logoColor=white) | Full git GUI inside the Godot editor via libgit2. Desktop-first, Android port is the final boss. |
-| **[skaflo](https://github.com/QuayeDNA/skaflo)** | ![npm](https://img.shields.io/npm/v/skaflo?style=flat-square&color=CB3837&logo=npm&logoColor=white) | CLI folder scaffolder. Directories only, no opinions. The one thing here that ships to strangers. |
+</td></tr>
+<tr><td valign="top"><b>CI/CD</b></td><td>
 
-**Bonus tracks:** Shebre website (kente-tile print aesthetic) · HomeFlow (rent MVP) · BryteLinks Connect (telecom dashboard) · ResumeForge (paper-crafted resume builder) · pixel-portfolio (2D side-scroller life story, Godot 4)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
+</td></tr>
+<tr><td valign="top"><b>Infra &amp; Cloud</b></td><td>
 
-### 🏷️ RATING
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-<div align="center">
-
-![Rating](https://img.shields.io/badge/RATED-SHIP--READY-brightgreen?style=for-the-badge)
-
-</div>
-
-**Content descriptors:** Frequent Refactoring · Intense Debugging Sequences · Strong Ghanaian Cultural Themes · Occasional Rust Borrow-Checker Violence
-
----
-
-### 💽 SYSTEM REQUIREMENTS
-
-| | Minimum | Recommended |
-|---|---|---|
-| **Backend** | Node.js, Express | Next.js 16, Drizzle ORM |
-| **Database** | PostgreSQL | PostgreSQL + Turborepo monorepo |
-| **Mobile** | Kotlin/Android | Kotlin + on-device ML fallback |
-| **Desktop** | Tauri v1 | Tauri v2 + Rust |
-| **Game Engine** | Godot 4 | Godot 4 + Aseprite pipeline |
+</td></tr>
+</table>
 
 ---
 
@@ -81,8 +81,6 @@
 ![npm Downloads](https://img.shields.io/npm/dt/skaflo?label=skaflo%20downloads&color=CB3837&style=for-the-badge&logo=npm)
 
 </div>
-
-*Language breakdown lives in the "Now Playing" badges above — pulled from what's actually shipped, not an auto-generated percentage chart.*
 
 ---
 
